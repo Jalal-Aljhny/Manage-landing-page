@@ -178,13 +178,13 @@ document.getElementById("year").innerText = new Date().getFullYear();
 //scroll animation
 window.addEventListener("scroll", () => {
   manageDivs.forEach((div) => {
-    if (window.scrollY > div.offsetTop - 700) {
+    if (window.scrollY > div.offsetTop - screen.height * 0.65) {
       div.classList.add("show");
     } else {
       div.classList.remove("show");
     }
   });
-  if (window.scrollY > testimonialH.offsetTop - 700) {
+  if (window.scrollY > testimonialH.offsetTop - screen.height * 0.65) {
     testimonialH.classList.add("show");
   }
 });
