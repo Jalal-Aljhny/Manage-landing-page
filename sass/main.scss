@@ -246,7 +246,7 @@ body {
   }
   section.manage {
     padding-bottom: #{$section-padding}px;
-    max-height: 700px;
+    min-height: 700px;
     .container {
       display: flex;
       align-items: flex-start;
@@ -262,6 +262,7 @@ body {
         width: 50%;
       }
       > div:first-child {
+        max-height: 600px;
         h2 {
           color: #232f55;
           font-size: 35px;
@@ -341,7 +342,6 @@ body {
   }
   section.testimonilas {
     padding-bottom: #{$section-padding}px;
-    padding-top: #{$section-padding}px;
     text-align: center;
     h2 {
       color: #232f55;
