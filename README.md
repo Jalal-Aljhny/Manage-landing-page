@@ -35,8 +35,8 @@ Note that some sections don't show case it show when scroll
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jalal-Aljhny/Manage-landing-page)
-- Live Site URL: [Add live site URL here](https://jalal-aljhny.github.io/Manage-landing-page/)
+- Solution URL: [solution URL here](https://github.com/Jalal-Aljhny/Manage-landing-page)
+- Live Site URL: [live site URL here](https://jalal-aljhny.github.io/Manage-landing-page/)
 
 ## My process
 
